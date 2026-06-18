@@ -1,4 +1,4 @@
-# ADE Failure Taxonomy — 五层失效分类学
+# Agent Delivery Engineering (ADE) Failure Taxonomy — 五层失效分类学
 
 > 从三篇 ADE 论文提炼的统一分类框架，适用于所有 AI Agent 架构。
 
