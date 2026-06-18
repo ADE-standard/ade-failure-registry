@@ -1,6 +1,6 @@
 # Architecture Index — 架构索引
 
-> ADE Failure Registry covers multiple AI Agent architectures. Each architecture's failures are analyzed using the unified ADE five-layer taxonomy.
+> Agent Delivery Engineering (ADE) Failure Registry covers multiple AI Agent architectures. Each architecture's failures are analyzed using the unified ADE five-layer taxonomy.
 
 ## Why Cross-Architecture?
 
