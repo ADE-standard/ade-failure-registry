@@ -1,8 +1,8 @@
-# Contributing to ADE Failure Registry
+# Contributing to Agent Delivery Engineering (ADE) Failure Registry
 
 ## 欢迎贡献
 
-ADE Failure Registry 是一个社区驱动的知识库。你的每一个案例都在帮助整个行业避免重复错误。
+Agent Delivery Engineering (ADE) Failure Registry 是一个社区驱动的知识库。你的每一个案例都在帮助整个行业避免重复错误。
 
 ## 提交案例的步骤
 
