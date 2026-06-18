@@ -1,4 +1,4 @@
-# ADE Failure Registry
+# Agent Delivery Engineering (ADE) Failure Registry
 
 > 跨架构 AI Agent 失效案例登记库 — 由社区驱动，持续演进。
 
@@ -8,7 +8,7 @@
 
 ## What is this?
 
-ADE Failure Registry is a **cross-architecture AI agent failure case knowledge base**, organized by the ADE (Agent Delivery Engineering) five-layer taxonomy.
+Agent Delivery Engineering (ADE) Failure Registry is a **cross-architecture AI agent failure case knowledge base**, organized by the ADE (Agent Delivery Engineering) five-layer taxonomy.
 
 It's not a bug tracker — it's a **structured encyclopedia of failure patterns** that helps:
 - **Researchers**: validate and enrich ADE theory with real-world cases
